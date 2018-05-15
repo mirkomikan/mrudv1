@@ -6,7 +6,7 @@ MRU-Dv1 GLOBAL TIMER (Specs part 10)
 AlarmReceiver extends BroadcastReceiver  
 NotificationManager  
 TaskStackBuilder  
-NotificationActivity 
+NotificationActivity  
 alarmSound   
 
 DONE:
