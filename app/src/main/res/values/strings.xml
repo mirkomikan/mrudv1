@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MRU-Dv1</string>
+
+    <string name="hello_world">MRU-D - Notification Timer app!\n\nNotification will pop-up at the Notification Bar every 10 seconds, and will be updating an existing notification in order to prevent an overloading.\nTapping on Notification will open another info view, even if main app gets closed.</string>
+    <string name="action_settings">Settings</string>
+    <string name="notif_details">These are Notification Details from MRU-D app!</string>
+</resources>
